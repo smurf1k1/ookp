@@ -1,0 +1,31 @@
+﻿<body>
+    <div>
+    <table>
+        <tr>
+            <td>GetAllOrganizations</td>
+            <td>AddOrganization</td>
+        </tr>
+        <tr>
+            <td>
+                <form action="@Url.Action("GetAllProducts", "Sklad")" method="get">
+                 <input type="hidden"/>
+                 <button type="submit">GetAllProducts</button>
+                </form>
+            </td>
+            <td>
+                  <form action="@Url.Action("AddProduct", "Sklad")" method="get">
+                  <input type="hidden" name="Id"/>
+                  <button type="submit">AddProduct</button>
+                  </form>
+             </td>
+             <td>
+                  <form action="@Url.Action("GetByPrice", "Sklad")" method="get">
+                  <input type="hidden" name="Id"/>
+                  <button type="submit">GetByPrice</button>
+                  </form>
+             </td>
+        </tr>
+    </table>
+</div>
+</body>
+

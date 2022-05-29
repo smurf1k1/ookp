@@ -1,0 +1,36 @@
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.exe
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.deps.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.runtimeconfig.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.runtimeconfig.dev.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.Form1.resources
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\refint\lab3.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.genruntimeconfig.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\3\lab3\lab3\obj\Debug\net5.0-windows\ref\lab3.dll
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.exe
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.deps.json
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.runtimeconfig.json
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.runtimeconfig.dev.json
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.dll
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\bin\Debug\net5.0-windows\lab3.pdb
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.Form1.resources
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.csproj.GenerateResource.cache
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.dll
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\refint\lab3.dll
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.pdb
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\lab3.genruntimeconfig.cache
+C:\Users\Ruslan\Desktop\ООКП\3\lab3\lab3\obj\Debug\net5.0-windows\ref\lab3.dll

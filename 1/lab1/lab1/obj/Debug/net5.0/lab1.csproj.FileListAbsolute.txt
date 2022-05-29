@@ -1,0 +1,32 @@
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\bin\Debug\net5.0\lab1.exe
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\bin\Debug\net5.0\lab1.deps.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\bin\Debug\net5.0\lab1.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\bin\Debug\net5.0\lab1.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\refint\lab1.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs2\1\lab1\lab1\obj\Debug\net5.0\ref\lab1.dll
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\bin\Debug\net5.0\lab1.exe
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\bin\Debug\net5.0\lab1.deps.json
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\bin\Debug\net5.0\lab1.dll
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\bin\Debug\net5.0\lab1.pdb
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.dll
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\refint\lab1.dll
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.pdb
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache
+C:\Users\Ruslan\Desktop\ООКП\1\lab1\lab1\obj\Debug\net5.0\ref\lab1.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zWbh43XXLajoaFzgx3N6nP1k34f5epS3iMj1p+ecAkv8hts/OrVqMQ5MIJAGSrowgLsLFvD137k9vjvTZlSVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruslan\\Desktop\\ООКП\\6\\lab6\\Client\\ClientTcp\\ClientTcp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruslan\\.nuget\\packages\\nodatime\\3.0.1\\nodatime.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ruslan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\Ruslan\\.nuget\\packages\\twileloop.expresstimezone\\1.0.0\\twileloop.expresstimezone.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

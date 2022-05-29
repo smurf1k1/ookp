@@ -1,0 +1,24 @@
+﻿<body>
+    <div>
+        <table>
+            <tr>
+                <td>GetAllPlacesSlots</td>
+                <td>MadeReservation</td>
+            </tr>
+            <tr>
+                <td>
+                    <form action="@Url.Action("GetAllPlacesSlots", "Order")" method="get">
+                    <input type="hidden"/>
+                    <button type="submit">GetAllPlacesSlots</button>
+                    </form>
+                </td>
+                <td>
+                    <form action="@Url.Action("MadeReservation", "Order")" method="get">
+                    <input type="hidden" name="Id"/>
+                    <button type="submit">MadeReservation</button>
+                    </form>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>

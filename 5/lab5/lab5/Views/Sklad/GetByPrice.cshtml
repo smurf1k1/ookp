@@ -1,0 +1,33 @@
+﻿<form method="get" action="">
+    <input type="hidden" value="@ViewBag.Id" name="Id"/>
+    <table>
+        <tr>
+            <td><p>Enter Price:</p></td>
+            <td><input type="text" name="Price"/></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="GetByPrice"/></td>
+        </tr>
+    </table>
+</form>
+<body>
+    <div>
+    <table>
+        <tr>
+            <td>Id</td>
+            <td>>Name</td>
+            <td>Price</td>
+            <td>Weight</td>
+        </tr>
+        @foreach (var value in Model)
+        {
+            <tr>
+              <td>@value.Id</td>
+              <td>@value.Name</td>
+              <td>@value.Price</td>
+              <td>@value.Weight</td>
+            </tr>
+        }
+    </table>
+    </div>
+</body>
